@@ -1,0 +1,80 @@
+body {
+  background-image: url(images/Only.jpeg);
+  background-attachment: fixed;
+  font-size: medium;
+  font-family: fantasy;
+}
+
+.main-header {
+  font-size: 400%;
+  color: white;
+  text-align: center;
+}
+
+.secondary {
+  font-size: 300%;
+  color: white;
+  text-align: center;
+}
+
+.video-div {
+  display: flex;
+  justify-content: center;
+  padding: 5%;
+}
+
+p {
+  font-family: fantasy;
+  font-size: 200%;
+  text-align: center;
+  color: white;
+  margin: 10%;
+}
+
+.ref {
+  display: flex;
+  justify-content: center;
+  width: 75%;
+  border: 3px solid white;
+  background-color: rgb(213, 179, 134);
+}
+
+th {
+  font-size: 200%;
+  font-family: fantasy;
+}
+
+td {
+  border: 3px inset;
+  padding: 0%;
+  text-align: center;
+}
+
+.cross {
+  height: 20%;
+  width: 20%;
+}
+
+.thorns {
+  height: 20%;
+  width: 20%;
+}
+
+.tab {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.res {
+  height: 20%;
+  width: 20%;
+}
+
+.link:link{
+    color: white
+}
+
+.link:visited{
+    color:black
+}
