@@ -1,4 +1,4 @@
-body {
+.body  {
   background-image: url(images/Only.jpeg);
   background-attachment: fixed;
   font-size: medium;
@@ -23,7 +23,7 @@ body {
   padding: 5%;
 }
 
-p {
+.main-text {
   font-family: fantasy;
   font-size: 200%;
   text-align: center;
@@ -39,12 +39,12 @@ p {
   background-color: rgb(213, 179, 134);
 }
 
-th {
+.th {
   font-size: 200%;
   font-family: fantasy;
 }
 
-td {
+.td {
   border: 3px inset;
   padding: 0%;
   text-align: center;
